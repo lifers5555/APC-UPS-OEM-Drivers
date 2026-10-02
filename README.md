@@ -4,4 +4,7 @@ This is a copy of the APC by Schneider Electric drivers, extracted from PowerChu
 
 PowerChute Serial Shutdown Windows for Back-UPS, Smart-UPS and Easy UPS Online (x64) version 1.6
 for Windows 10, Windows 11, Server 2022, Server 2025
+
+Drivers version 1.3.0.0
+
 https://www.se.com/au/en/product/SFPCSS/powerchute-serial-shutdown-unattended-graceful-shutdown-ups-monitoring-configuration-energy-management/
